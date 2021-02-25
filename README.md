@@ -13,3 +13,6 @@ laravel-multidomain: [gecche/laravel-multidomain](https://github.com/gecche/lara
 类似wordpress的项目安装器
 
 laravel-installer : [laravel-installer](https://github.com/rashidlaasri/LaravelInstaller)
+
+laravel-quick： 封装了一些我们开发中常见的工具，使开发变得更高效
+[laravel-quick](https://github.com/youyingxiang/laravel-quick)
